@@ -7,7 +7,7 @@ const Props1 = {
   title: 'Card Title',
   text: "Some quick example text to build on the card title and make up the bulk of the card's content.",
   buttonHref: '#',
-  children: <Card.Img variant="top" src="https://raw.githubusercontent.com/netology-code/ra16-homeworks/master/events-state/layouts/img/2.jpg" />
+  children: <Card.Img variant="top" src="https://raw.githubusercontent.com/Mali-zi/cards/aa246b02c7bc5940d290ce8445b623181d3e7dcc/src/components/picture.svg" />
 };
 
 const Props2 = {
